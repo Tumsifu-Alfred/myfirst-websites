@@ -1,0 +1,200 @@
+      #kupaza{
+        color:rgb(237, 219, 24);
+        font-size:40px;
+        background-image:url(Guider.jpg);
+        word-spacing:5px;
+        text-indent:5px;
+        line-height:65px;
+        padding-top:50px;
+        font-family: Elephant;
+        background-repeat: no-repeat;
+        padding-left: 30px;
+        }
+        #services{
+                
+            font-size:30px;
+            width: 100%;
+            height: 600px;
+            margin: auto;
+            padding-top: 0px;
+        }
+      #navigation{
+        background-color: #c4e716;
+    }
+        
+       
+        .kamala{
+            text-align:center; 
+            float: left;
+            width: 90%;
+            height: 350px;
+            background-color: midnightblue;
+            font-size: 15px;
+            color: #fff;
+            font-family:Georgia;
+            overflow-x: auto;
+        }
+        About{
+            width: 100%;
+            height: 350px;
+            margin-bottom: 800px; 
+        }
+        #Ragad{
+              line-height: 25px;
+              color:#000;
+              font-family: cambria;
+              word-spacing:10px;
+              font-size: 15px;
+              border-style:solid;
+              margin: 0% 100%;
+              margin-left:150px ;
+              margin-right: 150px;
+              background-color: rgb(19, 178, 232);
+              border-radius: 30px;
+              padding: 1px 50px 2px;
+
+        }
+        header{
+            padding: 12px;
+            text-align: center;            
+            background-color: rgb(145, 156, 245);
+            width: 97.4%;
+            height: 50px;
+            padding-top: 1px;
+            font-family: 'Trebuchet MS';
+            color: #090909;
+        }
+        #tabulele{
+            width: 90%;
+            height: 600px;
+            text-align:center;
+            margin: auto;
+
+     }
+     #Ucc{
+        background-color: rgb(45, 96, 214);
+        width: 100%;
+        color: #fff;
+        height: 420px;
+        text-indent: 30px;
+        padding-top: 20px;
+        margin-top: 1px;
+     }
+     #line{
+        text-decoration-line: underline;
+        padding-bottom: 0px;
+     }
+     #Kabana{
+        text-align: center;
+        font-family: verdana;
+        font-size: 18px;
+     }
+     .main_form {
+     padding: 20px 0px 0px 0px;
+}
+
+.main_form .contactus {
+     border: inherit;
+     padding: 0px 5px;
+     margin-bottom: 20px;
+     width: 50%;
+     height: 60px;
+     background: transparent;
+     color: #777977;
+     font-size: 18px;
+     font-weight: normal;
+     border-bottom: #170404 solid 1px;
+    
+}
+
+.main_form .textarea {
+     border: inherit;
+     padding: 0px 15px;
+     margin-bottom: 20px;
+     width: 50%;
+     background: transparent;
+     color: #777977;
+     font-size: 18px;
+     font-weight: normal;
+     border-bottom: #120303 solid 1px;
+     padding-top: 30px;
+}
+
+.main_form .send_btn {
+     font-size: 17px;
+     transition: ease-in all 0.5s;
+     background-color: #fff;
+     text-transform: uppercase;
+     color: #000;
+     padding: 10px 0px;
+     max-width: 160px;
+     width: 100%;
+     display: block;
+     margin-top: 30px;
+}
+
+.main_form .send_btn:hover {
+     background-color: #00ff00;
+     transition: ease-in all 0.5s;
+     cursor: pointer;
+     color: #fff;
+}
+
+#request *::placeholder {
+     color: #777977;
+     opacity: 1;
+}
+#full{
+    width:60%; font-size: 20px;border-radius: 10px;text-align: center;
+}
+#full:hover{
+    background-color: #c4e716;
+     transition: ease-in all 0.5s;
+     cursor: pointer;
+    
+}
+.contactus img{
+    margin-right: 30px;
+    /* margin-top: 5px; */
+}
+
+.about.who{
+    padding-left: 20px;
+}
+#menu:hover{
+    background-color: #c4e716;
+     transition: ease-in all 0.5s;
+     cursor: pointer;
+}
+#Home{
+    font-size: 25px;float:left ;
+    text-align: center;width:33%;
+    background-color:rgb(158, 220, 88);
+     height: 500px;padding-top: 20px;
+     font-family: 'Trebuchet MS';
+}
+#Office{
+               font-size: 25px;float:left ;
+               text-align: center;width:34%;
+               background-color:rgb(231, 231, 81);
+               height: 500px;padding-top: 20px;
+               font-family:'Trebuchet MS' ;
+}
+#Bodyguards{
+              font-size: 25px;float:left ;
+              text-align: center;width:33%;
+              background-color:rgb(220, 142, 74);
+              height: 500px;padding-top: 20px;
+              font-family: 'Trebuchet MS';
+}
+.media{
+    width: 50%;
+    height: 100px;
+    border: solid;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px; 
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgba(19, 81, 196, 0.405);
+}
